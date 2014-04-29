@@ -1,6 +1,6 @@
 package org.gradle;
 
-import org.apache.commons.collections.list.GrowthList;
+impor org.apache.commons.collections.list.GrowthList;
 
 public class Person {
     private final String name;
